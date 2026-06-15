@@ -76,6 +76,7 @@ public static void main(String[] args) {
 	//System.out.println(thread1.isAlive());//false
 	thread1.start();//giving threads to thread schedular to give them life
 	thread2.start();
+	
 	thread3.start();
 	//System.out.println(thread1.isAlive());//true
 	

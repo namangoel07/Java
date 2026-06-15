@@ -65,7 +65,7 @@ import java.util.Scanner;
 		}
 	}
 public class LaunchThread3 {
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws InterruptedException  {
 		System.out.println("Application Started");
 		Alpha1 a=new Alpha1();//in inheritance making object of child class is equal to making object of parent class
 		Beta1 b=new Beta1();//these are equivalent to creating 3 threads

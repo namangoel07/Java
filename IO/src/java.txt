@@ -1,0 +1,10 @@
+Alien
+Z
+javaAlien
+Z
+javaZ
+JAVA
+A
+true
+90.5
+90
